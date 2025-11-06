@@ -34,8 +34,3 @@ Empowering innovation for sustainable and intelligent agriculture.
 **Author:** komal kathwade  
 **LinkedIn:** https://www.linkedin.com/in/komal-kathwade/ 
 **GitHub:** https://github.com/komal-k2005/KrishiMitra
-
----
-
-### 🪴 Tags
-`#AshnaAI` `#SmartIndiaHackathon` `#AI` `#Agriculture` `#Innovation` `#Hackathon2025` `#SIAAH` `#SIAAH2K25` `#AshnaAIHackathon` `#AshnaHackathon`
