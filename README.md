@@ -1,7 +1,6 @@
 # 🌾 KrishiMitra AI
 
-![KrishiMitra AI Screenshot](./d792efa5-fbae-421a-90da-8a97beb04833.png)
-
+![KrishiMitra AI Screenshot](https://github.com/komal-k2005/KrishiMitra-AI/blob/main/ashaai.jpeg)
 > 🚀 Developed for **AshnaAI Smart India AI Agent Hackathon 2025**
 
 ## 🌟 Overview
